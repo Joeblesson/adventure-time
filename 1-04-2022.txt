@@ -1,0 +1,12 @@
+1st April 2022 17:37:28
+
+This is not a joke. I just decided to start with this on 
+April fools day. 
+
+Version Alpha 1.0 is now out. 
+I called it Hypixel Skyblock Ripoff in the folder name, because
+the idea is pretty similar to it. But not entirely ripped off.
+It has nothing but the license and main.cpp.
+But it's something.
+
+-Joeblesson
